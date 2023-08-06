@@ -1,4 +1,4 @@
-Buy this shit:
+Bill of Materials:
 
 **DOOR MUST BE 6MM THICK**
 
@@ -8,7 +8,7 @@ Buy this shit:
 3x 		M5 Locknut					
 3x		M5x40mm SHCS			
 6x		M5x10mm BHCS	
-4x		M3x10mm FHCS
+4x		M3x12mm FHCS
 8x		M3x12mm	SHCS	
 18x		5x8x1mm Washer					
 6x		M5 T-Nuts
