@@ -11,6 +11,6 @@ Bill of Materials:
 4x		M3x12mm FHCS
 8x		M3x10mm	BHCS	
 8x		M3 Washer
-18x		5x8x1mm Washer					
+18x		5mm (I.D.) x 10mm (O.D.) x 1mm (Thick) Washer or Shim		
 8x		M5 T-Nuts
-12x		M3 Heatset Inserts
+12x		M3x5x4 Heatset Inserts
