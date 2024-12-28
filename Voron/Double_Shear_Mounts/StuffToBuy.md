@@ -12,6 +12,8 @@ For 6mm belt gantry:
 
 8x M3x35mm SHCS
 
+8x M3x5mm BHCS
+
 8x M3 Washers
 
 8x M3x5x4 Heatset Inserts
